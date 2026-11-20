@@ -1,0 +1,20 @@
+# Environments
+src/
+data/
+gguf/
+ModelFiles/
+
+scripts/claude-web.db
+
+scripts/history/
+scripts/uploads/
+scripts/browser-validation-evidence/
+
+# Python cache
+__pycache__/
+*.pyc
+*.log
+
+# OS
+Thumbs.db
+.DS_Store
